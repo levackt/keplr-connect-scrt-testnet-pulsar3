@@ -1,0 +1,47 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Enable Keplr - Secret Network Testnet",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.9.2",
+    "@nextui-org/react": "^1.0.0-beta.9",
+    "next": "^12.2.3",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "^5.0.1",
+    "secretjs": "^1.3.0-beta.6"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  }
+}

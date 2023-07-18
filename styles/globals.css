@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.keplr {
+  max-width: 40rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  height: 200px !important;
+}
+.keplrCard {
+  margin-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 200px !important;
+  text-align: center;
+}
+.enableKeplr {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+label {
+  margin-top: 20px;
+}
+.keplrConnect {
+  width: 100px;
+  height: 100px !important;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
