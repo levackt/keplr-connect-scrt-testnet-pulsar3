@@ -5,4 +5,4 @@ export const GRPCWEB_URL = 'https://grpc.pulsar3.scrttestnet.com';
 export const RPC_URL = 'https://rpc.pulsar3.scrttestnet.com';
 export const LCD_URL = 'https://api.pulsar3.scrttestnet.com';
 export const CHAIN_ID = 'pulsar-3';
-export const CHAIN_NAME = 'Secret Testnet';
+export const CHAIN_NAME = 'Secret Testnet Pulsar3';
